@@ -12,7 +12,7 @@ $ npm install --save-dev gulp-identity
 
 
 ## Possible usage
-Say you need to minify your js file only on production env, you really hate if statements and want your build file to be more readable.
+Say you need to minify your js file only on production env and want your tasks to be more readable.
 
 ```js
 var gulp = require('gulp');
@@ -33,5 +33,4 @@ gulp.task('default', function () {
 
 
 ## License
-
 [MIT](http://opensource.org/licenses/MIT)
