@@ -1,0 +1,26 @@
+{
+  "name": "gulp-identity",
+  "version": "0.1.0",
+  "repository": "soplakanets/gulp-identity",
+  "description": "A gulp plugin that does nothing. Passes the stream/files unchanged.",
+  "main": "index.js",
+  "author": {
+    "name": "Serhiy Oplakanets",
+    "email": "serhiy@oplakanets.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^0.4.1"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-plugin",
+    "plugin",
+    "nothing",
+    "identity"
+  ],
+  "tags": ["gulp", "gulp-plugin"],
+  "engines": {
+    "node": ">= 0.9"
+  }
+}
